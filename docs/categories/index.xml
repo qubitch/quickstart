@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Qubitch</title>
-    <link>qubitch.github.io/quickstart/categories/</link>
+    <link>https://qubitch.github.io/quickstart/categories/</link>
     <description>Recent content in Categories on Qubitch</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="qubitch.github.io/quickstart/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://qubitch.github.io/quickstart/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

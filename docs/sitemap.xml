@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>qubitch.github.io/quickstart/posts/my-first-post/</loc>
+    <loc>https://qubitch.github.io/quickstart/posts/my-first-post/</loc>
     <lastmod>2020-12-02T14:10:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>qubitch.github.io/quickstart/posts/</loc>
+    <loc>https://qubitch.github.io/quickstart/posts/</loc>
     <lastmod>2020-12-02T14:10:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>qubitch.github.io/quickstart/</loc>
+    <loc>https://qubitch.github.io/quickstart/</loc>
     <lastmod>2020-12-02T14:10:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>qubitch.github.io/quickstart/categories/</loc>
+    <loc>https://qubitch.github.io/quickstart/categories/</loc>
   </url>
   
   <url>
-    <loc>qubitch.github.io/quickstart/tags/</loc>
+    <loc>https://qubitch.github.io/quickstart/tags/</loc>
   </url>
   
 </urlset>

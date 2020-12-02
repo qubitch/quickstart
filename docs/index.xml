@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qubitch</title>
-    <link>https://qubitch.github.io/quickstart/</link>
+    <link>https://blog.qubitch.nl/</link>
     <description>Recent content on Qubitch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Dec 2020 14:10:27 +0100</lastBuildDate><atom:link href="https://qubitch.github.io/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 14:10:27 +0100</lastBuildDate><atom:link href="https://blog.qubitch.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://qubitch.github.io/quickstart/posts/my-first-post/</link>
+      <link>https://blog.qubitch.nl/posts/my-first-post/</link>
       <pubDate>Wed, 02 Dec 2020 14:10:27 +0100</pubDate>
       
-      <guid>https://qubitch.github.io/quickstart/posts/my-first-post/</guid>
+      <guid>https://blog.qubitch.nl/posts/my-first-post/</guid>
       <description>Hi!</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "https://qubitch.github.io/quickstart/"
+baseURL = "https://blog.qubitch.nl/"
 languageCode = "en-us"
 title = "Qubitch"
 theme = "hyde"
